@@ -5,7 +5,7 @@
 # print( [] is [] )  
 # print( {} == {} )  
 # print( {} is {} )  
-# A blank dictionary or list is the same as another blank one. However, they aren't identical entities because they are stored independently in memory. This is because both the list and the dictionary are changeable.
+# A blank dictionary or list is the same as another blank one. However, they aren't identical entities because they are stored independently in memory. This is because both the list and the dictionary are the changeable.
 
 
 
